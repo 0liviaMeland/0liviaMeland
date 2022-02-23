@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0liviaMeland
-- 📓 I'm a prospective Computer Science and French major.
+- 📓 I'm a prospective Computer Science and French major at Kalamazoo College.
 - 👀 I’m interested in learning about how computers and coding languages actually work, and about accessibility in computer science.
-- 🌱 I’m currently learning all kinds of languages at Kalamazoo College. This term I'm learning Java.
+- 🌱 I’m currently learning Java this term.
 - 💞️ I’m looking to collaborate on ... not sure yet!
 - 📫 How to reach me ... 
 
